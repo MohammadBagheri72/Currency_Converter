@@ -1,0 +1,12 @@
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Currency_Converter\DomainClass\bin\Debug\DomainClass.dll
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Currency_Converter\DomainClass\bin\Debug\DomainClass.pdb
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Currency_Converter\DomainClass\obj\Debug\DomainClass.csprojAssemblyReference.cache
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Currency_Converter\DomainClass\obj\Debug\DomainClass.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Currency_Converter\DomainClass\obj\Debug\DomainClass.dll
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Currency_Converter\DomainClass\obj\Debug\DomainClass.pdb
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Currency_Converter\DomainClass\bin\Debug\DomainClass.dll.config
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Currency_Converter\DomainClass\bin\Debug\EntityFramework.dll
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Currency_Converter\DomainClass\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Currency_Converter\DomainClass\bin\Debug\EntityFramework.xml
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Currency_Converter\DomainClass\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mohammad\Documents\Visual Studio 2017\Projects\Currency_Converter\DomainClass\obj\Debug\DomainClass.csproj.CopyComplete
